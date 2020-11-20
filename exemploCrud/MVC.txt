@@ -1,0 +1,5 @@
+Model: Camada de modelo ou da lógica da aplicação
+
+View: Camada de apresentação ou visualização
+
+Controller: Camada de controle ou controlador (faz a mediação da entrada e saída)
